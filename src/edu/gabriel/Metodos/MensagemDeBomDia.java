@@ -2,7 +2,7 @@ package edu.gabriel.Metodos;
 
 import java.time.LocalTime;
 
-public class HoraDoDia {
+public class MensagemDeBomDia {
 
     public static void mostraMensagem(){
 
